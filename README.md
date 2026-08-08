@@ -1,3 +1,19 @@
+
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="./assets/hero/agent-console-8567d39d-mobile-dark.svg">
+  <source media="(prefers-color-scheme: light) and (max-width: 600px)" srcset="./assets/hero/agent-console-8567d39d-mobile-light.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/hero/agent-console-8567d39d-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/hero/agent-console-8567d39d-light.svg">
+  <img src="./assets/hero/agent-console-8567d39d-dark.svg" alt="Anbuthamizh - Java Full Stack Developer">
+</picture>
+
+</div>
+
+
+## `01` — ABOUT
 <div align="center">
 
 <a href="https://capsule-render.vercel.app/"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:6d28d9,50:4f46e5,100:312e81&height=180&section=header&text=ANBUTHAMIZHAN&fontSize=45&fontColor=ffffff&fontAlignY=35&animation=twinkling&desc=Computer%20Science%20Engineer%20%7C%20Full%20Stack%20Developer&descAlignY=58&descSize=18" width="100%"/></a>

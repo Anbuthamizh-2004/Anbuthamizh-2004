@@ -1,0 +1,96 @@
+{
+  "$schema": "./profile.schema.json",
+  "profile": {
+    "name": "Anbuthamizhan",
+    "username": "Anbuthamizh-2004",
+    "headline": "Java Full Stack Developer",
+    "affiliation": "Anna University",
+    "location": "Ariyalur, Tamil Nadu",
+    "status": "Building / Learning / Shipping",
+    "about": [
+      "Computer Science Engineering student and Java Full Stack Developer focused on building scalable, secure, responsive, and user-oriented software applications.",
+      "I enjoy turning ideas into practical products using full-stack engineering, modern web technologies, backend systems, and database-driven applications."
+    ]
+  },
+  "research": {
+    "primary": "Applied AI",
+    "direction": "Reliable AI-powered software systems",
+    "themes": "AI / Full Stack Development / Developer Tools",
+    "narrative": "I am interested in combining software engineering and AI to build practical, reliable, and user-focused applications."
+  },
+  "focus": [
+    {
+      "name": "Full Stack Development",
+      "description": "Building responsive frontend experiences and reliable backend systems."
+    },
+    {
+      "name": "Java Backend",
+      "description": "Developing REST APIs and database-driven applications using Java and MySQL."
+    },
+    {
+      "name": "Applied AI",
+      "description": "Exploring practical ways to integrate AI capabilities into useful software products."
+    }
+  ],
+  "projects": [
+    {
+      "name": "DDoS Detection",
+      "url": "https://github.com/Anbuthamizh-2004/DDOS_attack_deduction",
+      "homepage": "",
+      "focus": "Network security",
+      "summary": "A project focused on detecting and analyzing distributed denial-of-service attack patterns.",
+      "heroLabel": "Security project"
+    },
+    {
+      "name": "Portfolio",
+      "url": "https://github.com/Anbuthamizh-2004/Anbuthamizh-2004",
+      "homepage": "https://anbuthamizhan.web.app/",
+      "focus": "Developer portfolio",
+      "summary": "A personal portfolio showcasing my software engineering work, projects, technical skills, and development journey.",
+      "heroLabel": "Personal build"
+    }
+  ],
+  "techStack": [
+    "Java",
+    "JavaScript",
+    "React.js",
+    "Node.js",
+    "Express.js",
+    "MySQL",
+    "HTML5",
+    "CSS3",
+    "Git",
+    "GitHub"
+  ],
+  "links": [
+    {
+      "label": "GitHub",
+      "value": "Anbuthamizh-2004",
+      "url": "https://github.com/Anbuthamizh-2004",
+      "logo": "github",
+      "color": "0B1220"
+    },
+    {
+      "label": "LinkedIn",
+      "value": "Anbuthamizhan",
+      "url": "https://www.linkedin.com/in/Anbuthamizhan",
+      "logo": "linkedin",
+      "color": "4F46E5"
+    },
+    {
+      "label": "Portfolio",
+      "value": "anbuthamizhan.web.app",
+      "url": "https://anbuthamizhan.web.app/",
+      "logo": "googlechrome",
+      "color": "6366F1"
+    }
+  ],
+  "activity": {
+    "enabled": true,
+    "limit": 6
+  },
+  "appearance": {
+    "palette": "signal"
+  },
+  "footer": "Building thoughtful software, learning continuously, and sharing what works."
+}
